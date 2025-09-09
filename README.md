@@ -58,7 +58,7 @@ A simple SFM project containing methods to convert sequences of images into
 Bachelors thesis in 
 
 
-## Skills:
+## Skills
 
 #### Programming languages and technical tools: 
 Python, Java, Matlab, C, C#, Haskell, Git, LaTeX, Linux, Unix Shell, PyTorch, Docker. <br> <br>Experience modeling problems mathematically and implementing models in code or with other technical tools.
