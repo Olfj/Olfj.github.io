@@ -29,7 +29,7 @@
 ### Structure From Motion
 [Code](https://github.com/Olfj/SFM)  -->
 
-## Skills:
+## Skills
 
 #### Programming languages and technical tools: 
 Python, Java, Matlab, C, C#, Haskell, Git, LaTeX, Linux, Unix Shell, PyTorch, Docker. <br> <br>Experience modeling problems mathematically and implementing models in code or with other technical tools.
