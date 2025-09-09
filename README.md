@@ -18,6 +18,7 @@
   - Chair of Board, Nov. 2019-Dec. 2021.
   - Vice Chair of Board, Nov. 2018-Nov. 2019.<br>
   During my time on the board of BRF Vindrosen we did important renovations, including the heating system, parts of the ventilation system, waste management and started renovations of the building façade. Additionally, we digitized parts of the operation, including a website to improve interactions with the residents and a portal to streamline daily operations.
+
 ## Projects
 
 <!-- ### Sequential Graph-Based Decoding of the Surface Code using a Hybrid Graph and Recurrent Neural Network Model
