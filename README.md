@@ -39,7 +39,7 @@ During my time on the board of BRF Vindrosen we did important renovations, inclu
 
 ### Sequential Graph-Based Decoding of the Surface Code using a Hybrid Graph and Recurrent Neural Network Model
 
-[Publication](https://odr.chalmers.se/items/182cf01b-c356-419f-8f1e-6db0f984c94d) 
+[Thesis](https://odr.chalmers.se/items/182cf01b-c356-419f-8f1e-6db0f984c94d) 
 | [Code](https://github.com/Olfj/QEC_GNN-RNN/tree/thesis)
 
 <!-- Developed hybrid neural network for surface code decoding based on [earlier work](https://arxiv.org/abs/2307.01241) on graph neural networks. Showed that a hybrid graph-recurrent network can generalize to long time series of surface level noise and      -->
@@ -50,8 +50,11 @@ During my time on the board of BRF Vindrosen we did important renovations, inclu
 
 A simple SFM project containing methods to convert sequences of images into 3d scenes using classical computer vision algorithms.  
 
-### Bachelor's thesis in Mechanics and maritime sciences - 
-[''Utveckling av turbulensmodeller med hjälp av maskininlärning i Python](https://odr.chalmers.se/items/faacbb32-83cf-45fe-8453-737fd904cba5)'', in English ''Development of turbulence models using machine learning in Python''.
+### Bachelor's thesis in Mechanics and maritime sciences
+
+[Thesis](https://odr.chalmers.se/items/faacbb32-83cf-45fe-8453-737fd904cba5)
+
+''Utveckling av turbulensmodeller med hjälp av maskininlärning i Python'', in English ''Development of turbulence models using machine learning in Python''.
 
 ## Skills
 
