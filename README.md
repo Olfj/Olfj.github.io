@@ -1,17 +1,19 @@
 ## Education
 
-* Chalmers University of Technology:
+### Chalmers University of Technology:
   - Master of science in Engineering, Complex Adaptive Systems. Aug. 2023–Jun. 2025.
   - Bachelor of Engineering, Software engineering. Aug. 2020-Jun. 2023.
   - Engineering preparatory year. Aug. 2019-Jun. 2020.
 
 
 ## Experience
+    
 ### Teaching Assistant - Chalmers University of Technology:
   - Data Structures and Algorithms. Oct. 2022-Jan. 2023, and Oct. 2024-Jan. 2025.<br>
   Supervising students with their coursework, including help with data structures, Java, Python, and Git. Grading coursework and exams.
   - Mathematical Modelling. Sep. 2024-Oct. 2024.<br>
   Supervising students using the Socratic method to allow them to transform real world problems into solvable mathematical models.
+
 ### Board - BRF Vindrosen:
   - Chair of Board, Nov. 2019-Dec. 2021.
   - Vice Chair of Board, Nov. 2018-Nov. 2019.<br>
@@ -32,6 +34,6 @@
 Python, Java, Matlab, C, C#, Haskell, Git, LaTeX, Linux, Unix Shell, PyTorch, Docker. <br> <br>Experience modeling problems mathematically and implementing models in code or with other technical tools.
 
 #### Communication and cooperation
-  Used to communicate technical ideas clearly, both orally and in writing, in team work, tutoring, and teaching.
+Skilled at communicating technical ideas clearly, both orally and in writing, in team work, tutoring, and teaching.
 
 #### Fluent in Norwegian, Swedish and English
