@@ -48,7 +48,7 @@ During my time on the board of BRF Vindrosen we did important renovations, inclu
 
 [Code](https://github.com/Olfj/SFM) 
 
-A simple SFM project containing methods to convert sequences of images into 3d scenes.  
+A simple SFM project containing methods to convert sequences of images into 3d scenes using classical computer vision algorithms.  
 
 ### Bachelor's thesis in Mechanics and maritime sciences - 
 [''Utveckling av turbulensmodeller med hjälp av maskininlärning i Python](https://odr.chalmers.se/items/faacbb32-83cf-45fe-8453-737fd904cba5)'', in English ''Development of turbulence models using machine learning in Python''.
