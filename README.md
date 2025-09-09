@@ -25,19 +25,15 @@ Recently graduated with a Master’s in Complex Adaptive Systems and a Bachelor�
 
 ### Board - BRF Vindrosen:
 - Chair of Board, Nov. 2019-Dec. 2021.
-- Vice Chair of Board, Nov. 2018-Nov. 2019.<br>
+- Vice Chair of Board, Nov. 2018-Nov. 2019.
   
 During my time on the board of BRF Vindrosen we did important renovations, including the heating system, parts of the ventilation system, waste management and started renovations of the building façade. Additionally, we digitized parts of the operation, including a website to improve interactions with the residents and a portal to streamline daily operations.
 
 ### Culinary Experience – Various Restaurants
 
 - Worked as a Chef and Sous Chef, managing daily kitchen operations, food preparation, and staff supervision.
-- Mentored apprentices, ensuring high standards of hygiene, safety, and culinary skills.
+- Mentored apprentices, ensuring high standards of hygiene and culinary skills.
 - Planned menus, coordinated inventory, and maintained efficient workflows in fast-paced environments.
-- Developed leadership, teamwork, and operational management skills in high-pressure settings.
-### 
-
-
 
 ## Projects
 
@@ -46,20 +42,16 @@ During my time on the board of BRF Vindrosen we did important renovations, inclu
 [Publication](https://odr.chalmers.se/items/182cf01b-c356-419f-8f1e-6db0f984c94d) 
 | [Code](https://github.com/Olfj/QEC_GNN-RNN/tree/thesis)
 
-Master’s thesis in Complex adaptive systems. 
+<!-- Developed hybrid neural network for surface code decoding based on [earlier work](https://arxiv.org/abs/2307.01241) on graph neural networks. Showed that a hybrid graph-recurrent network can generalize to long time series of surface level noise and      -->
 
 ### Structure From Motion
 
 [Code](https://github.com/Olfj/SFM) 
 
-A simple SFM project containing methods to convert sequences of images into 
+A simple SFM project containing methods to convert sequences of images into 3d scenes.  
 
-## Development of turbulence models using machine learning
-
-[Publication](https://odr.chalmers.se/items/faacbb32-83cf-45fe-8453-737fd904cba5)
-
-Bachelors thesis in 
-
+### Bachelor's thesis in Mechanics and maritime sciences - 
+[''Utveckling av turbulensmodeller med hjälp av maskininlärning i Python](https://odr.chalmers.se/items/faacbb32-83cf-45fe-8453-737fd904cba5)'', in English ''Development of turbulence models using machine learning in Python''.
 
 ## Skills
 
