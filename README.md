@@ -1,37 +1,40 @@
-# Ole Fjeldså
+## About
+
+Recently graduated with a Master’s in Complex Adaptive Systems and a Bachelor’s in Software Engineering. Analytical and creative, with a strong curiosity and passion for problem-solving. Skilled at communicating complex ideas clearly, both in teaching and collaborative projects.
 
 ## Education
 
 ### Chalmers University of Technology:
-  - Master of science in Engineering, Complex Adaptive Systems. Aug. 2023–Jun. 2025.
-  - Bachelor of Engineering, Software engineering. Aug. 2020-Jun. 2023.
-  - Engineering preparatory year. Aug. 2019-Jun. 2020.
+- Master of science in Engineering, Complex Adaptive Systems. Aug. 2023–Jun. 2025.
+- Bachelor of Engineering, Software engineering. Aug. 2020-Jun. 2023.
+- Engineering preparatory year. Aug. 2019-Jun. 2020.
 
-###
+### Culinary and Beverage Education
+
+- Sommelier Certification – Kulinarisk Akademi, Oslo, 2012
+
+- Chef Apprenticeship & Certification – Completed formal apprenticeship and passed professional chef exam at Michelin-starred Haga Restaurant, Oslo, 2009-2011
 
 ## Experience
 
 ### Teaching Assistant - Chalmers University of Technology:
-  - Data Structures and Algorithms. Oct. 2022-Jan. 2023, and Oct. 2024-Jan. 2025.<br>
+- Data Structures and Algorithms. Oct. 2022-Jan. 2023, and Oct. 2024-Jan. 2025.<br>
   Supervising students with their coursework, including help with data structures, Java, Python, and Git. Grading coursework and exams.
-  - Mathematical Modelling. Sep. 2024-Oct. 2024.<br>
+- Mathematical Modelling. Sep. 2024-Oct. 2024.<br>
   Supervising students using the Socratic method to allow them to transform real world problems into solvable mathematical models.
 
 ### Board - BRF Vindrosen:
-  - Chair of Board, Nov. 2019-Dec. 2021.
-  - Vice Chair of Board, Nov. 2018-Nov. 2019.<br>
+- Chair of Board, Nov. 2019-Dec. 2021.
+- Vice Chair of Board, Nov. 2018-Nov. 2019.<br>
   
-  During my time on the board of BRF Vindrosen we did important renovations, including the heating system, parts of the ventilation system, waste management and started renovations of the building façade. Additionally, we digitized parts of the operation, including a website to improve interactions with the residents and a portal to streamline daily operations.
+During my time on the board of BRF Vindrosen we did important renovations, including the heating system, parts of the ventilation system, waste management and started renovations of the building façade. Additionally, we digitized parts of the operation, including a website to improve interactions with the residents and a portal to streamline daily operations.
 
 ### Culinary Experience – Various Restaurants
 
-  - Worked as a Chef and Sous Chef, managing daily kitchen operations, food preparation, and staff supervision.
-
-  - Mentored apprentices, ensuring high standards of hygiene, safety, and culinary skills.
-
-  - Planned menus, coordinated inventory, and maintained efficient workflows in fast-paced environments.
-
-  - Developed leadership, teamwork, and operational management skills in high-pressure settings.
+- Worked as a Chef and Sous Chef, managing daily kitchen operations, food preparation, and staff supervision.
+- Mentored apprentices, ensuring high standards of hygiene, safety, and culinary skills.
+- Planned menus, coordinated inventory, and maintained efficient workflows in fast-paced environments.
+- Developed leadership, teamwork, and operational management skills in high-pressure settings.
 ### 
 
 
