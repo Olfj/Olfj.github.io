@@ -12,7 +12,6 @@ Recently graduated with a Master’s in Complex Adaptive Systems and a Bachelor�
 ### Culinary and Beverage Education
 
 - Sommelier Certification – Kulinarisk Akademi, Oslo, 2012
-
 - Chef Apprenticeship & Certification – Completed formal apprenticeship and passed professional chef exam at Michelin-starred Haga Restaurant, Oslo, 2009-2011
 
 ## Experience
