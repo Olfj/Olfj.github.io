@@ -43,11 +43,13 @@ During my time on the board of BRF Vindrosen we did important renovations, inclu
 
 <!-- Developed hybrid neural network for surface code decoding based on [earlier work](https://arxiv.org/abs/2307.01241) on graph neural networks. Showed that a hybrid graph-recurrent network can generalize to long time series of surface level noise and      -->
 
+<!--
 ### Structure From Motion
 
 [Code](https://github.com/Olfj/SFM) 
 
 A simple SFM project containing methods to convert sequences of images into 3d scenes using classical computer vision algorithms.  
+-->
 
 ### Bachelor's thesis in Mechanics and maritime sciences
 
