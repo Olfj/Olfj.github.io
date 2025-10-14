@@ -41,7 +41,7 @@ During my time on the board of BRF Vindrosen we did important renovations, inclu
 [Thesis](https://odr.chalmers.se/items/182cf01b-c356-419f-8f1e-6db0f984c94d) 
 | [Code](https://github.com/Olfj/QEC_GNN-RNN/tree/thesis)
 
-<!-- Developed hybrid neural network for surface code decoding based on [earlier work](https://arxiv.org/abs/2307.01241) on graph neural networks. Showed that a hybrid graph-recurrent network can generalize to long time series of surface level noise and      -->
+Developed hybrid graph-recurrent neural network for surface code decoding based on [earlier work](https://arxiv.org/abs/2307.01241) on graph neural networks. Showed that a hybrid graph-recurrent network can generalize to long time series of surface level noise and outperform the classical minimum-weight perfect matching algorithm.
 
 <!--
 ### Structure From Motion
