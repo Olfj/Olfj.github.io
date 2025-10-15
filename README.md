@@ -69,7 +69,12 @@ A simple SFM project containing methods to convert sequences of images into 3d s
 
 ### Bachelor's thesis in Mechanics and maritime sciences
 
-<a href="https://odr.chalmers.se/items/faacbb32-83cf-45fe-8453-737fd904cba5" target="_blank" rel="noopener noreferrer">Thesis</a>
+<a href="https://odr.chalmers.se/items/faacbb32-83cf-45fe-8453-737fd904cba5" 
+   target="_blank" 
+   rel="noopener noreferrer"
+   onmouseover="this.style.fontWeight='bold';"
+   onmouseout="this.style.fontWeight='normal';">
+   Thesis</a>
 
 ''Utveckling av turbulensmodeller med hjälp av maskininlärning i Python'', in English ''Development of turbulence models using machine learning in Python''.
 
