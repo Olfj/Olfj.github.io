@@ -39,7 +39,7 @@ During my time on the board of BRF Vindrosen we did important renovations, inclu
 ### Sequential Graph-Based Decoding of the Surface Code using a Hybrid Graph and Recurrent Neural Network Model
 
 <a href="https://odr.chalmers.se/items/182cf01b-c356-419f-8f1e-6db0f984c94d" target="_blank" rel="noopener noreferrer">Thesis</a>
-|<a href="https://github.com/Olfj/QEC_GNN-RNN/tree/thesis" target="_blank" rel="noopener noreferrer">Code</a>
+| <a href="https://github.com/Olfj/QEC_GNN-RNN/tree/thesis" target="_blank" rel="noopener noreferrer">Code</a>
 
 Developed hybrid graph-recurrent neural network for surface code decoding based on <a href="https://arxiv.org/abs/2307.01241" target="_blank" rel="noopener noreferrer">earlier work</a> on graph neural networks. Showed that a hybrid graph-recurrent network can generalize to long time series of surface level noise and outperform the classical minimum-weight perfect matching algorithm.
 
