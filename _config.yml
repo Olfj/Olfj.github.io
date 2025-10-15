@@ -1,11 +1,5 @@
 title: Ole Fjeldså
-# logo: /assets/img/circle_icecream.png
+logo: /assets/img/circle_icecream.png
 show_downloads: false
 theme: jekyll-theme-minimal
 
-# Add social or other links
-github:
-  username: olfj
-links:
-  - title: LinkedIn
-    url: www.linkedin.com/in/ole-fjeldså-a6276a228
